@@ -1,0 +1,17 @@
+Class 30
+
+username 
+mfaizanvayani2000
+
+password
+cdq2huE0t5SxhlKW
+
+
+
+mongodb+srv://mfaizanvayani2000:F5T7aFofFDxtdyi3@cluster0.kfao2mc.mongodb.net/?retryWrites=true&w=majority
+
+
+
+jwt 
+aws 
+deployment 
